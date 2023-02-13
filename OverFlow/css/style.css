@@ -1,0 +1,26 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+html,body{
+    height: 100px;
+    background-color:#192531
+}
+
+.main{
+    margin:0 auto;
+    width: 500px;
+    overflow: hidden;
+
+}
+
+.context{
+    background-color: dodgerblue;
+    height: 125px;
+}
+
+p{
+  color:#ffffff;
+
+}

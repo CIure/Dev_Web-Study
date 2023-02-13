@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Teste</title>
+    <link href="./css/style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+    <div class="main">
+        <button  onclick="myFunction()" class="button"> Aperte me </button>
+        <p id="demo"></p>
+    </div>
+    <form action="https://google.com">
+        <input type="submit" value="Go to Google" />
+    </form>
+    <a href="https://google.com" class="button">Go to Google</a>
+
+</body>
+<script>
+    function myFunction(){
+        document.getElementById("demo").innerHTML = "YOU CLICKED ME!";
+}
+
+</script>
+</html>

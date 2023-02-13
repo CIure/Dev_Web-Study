@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+html,body{
+    height: 100%;
+    background-color: #013f52;
+}
+
+.main{
+    width: 600px;
+    height: 50%;
+    margin: 0 auto;
+    opacity: 1;
+
+
+    background-color: #0696c2;
+    background-image: url("../img/logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}

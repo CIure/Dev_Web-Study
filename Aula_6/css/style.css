@@ -1,0 +1,44 @@
+﻿*{
+	margin: 0;
+	padding: 0;
+}
+
+/*
+*
+*
+Estilo para o conteúdo do nosso site
+*
+*
+*/
+
+html,body{
+	height: 100%; 
+}
+
+
+.artigo{
+	width:auto;
+	max-width: 500px;
+	height: auto;
+        max-height:400px;
+	background-color: rgb(200,200,200);
+	text-align: center;
+}
+
+.artigo h1{
+	color:rgb(66, 149, 244);
+	font-size: 23px;
+	font-style: normal;
+	font-weight: normal;
+	/*font-variant: small-caps;*/
+}
+
+.artigo p{
+	color: #1b1b1b;
+	text-align: left;
+	font-size: 17px;
+	font-style: normal;
+	font-weight: bold;
+	line-height: 40px;
+	margin-top:12px;
+}

@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    height: 100%;
+}
+
+ /* Elementos padrão para o css */
+
+.header{
+    background: aquamarine;
+    width:100%;
+    min-width: 1280px;
+    height:200px;
+ }
+
+.article{
+    background: aqua;
+    width: 300px;
+    height: 200px;
+    min-height: 30%;
+    margin: 0 auto
+ }
+
+

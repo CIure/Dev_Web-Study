@@ -1,0 +1,40 @@
+*{  
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color: #002b57;
+}
+
+html,body{
+    height:100%
+}
+
+
+.center{
+    background-color: #999898;
+    width: 600px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    
+}
+
+.artigo{
+    margin-bottom:50px;
+    margin-left:50px
+}
+
+.title{
+    color:#000000,
+
+}
+
+.artigo1{
+    
+}
+
+.title2{
+    color: #0883ff;
+}
+
